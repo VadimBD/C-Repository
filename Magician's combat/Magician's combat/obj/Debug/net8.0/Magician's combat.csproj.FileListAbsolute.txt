@@ -1,0 +1,14 @@
+C:\Visual 2022\C#\Magician's combat\Magician's combat\obj\Debug\net8.0\Magician's combat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual 2022\C#\Magician's combat\Magician's combat\obj\Debug\net8.0\Magician's combat.AssemblyInfoInputs.cache
+C:\Visual 2022\C#\Magician's combat\Magician's combat\obj\Debug\net8.0\Magician's combat.AssemblyInfo.cs
+C:\Visual 2022\C#\Magician's combat\Magician's combat\obj\Debug\net8.0\Magician's combat.csproj.CoreCompileInputs.cache
+C:\Visual 2022\C#\Magician's combat\Magician's combat\bin\Debug\net8.0\Magician's combat.exe
+C:\Visual 2022\C#\Magician's combat\Magician's combat\bin\Debug\net8.0\Magician's combat.deps.json
+C:\Visual 2022\C#\Magician's combat\Magician's combat\bin\Debug\net8.0\Magician's combat.runtimeconfig.json
+C:\Visual 2022\C#\Magician's combat\Magician's combat\bin\Debug\net8.0\Magician's combat.dll
+C:\Visual 2022\C#\Magician's combat\Magician's combat\bin\Debug\net8.0\Magician's combat.pdb
+C:\Visual 2022\C#\Magician's combat\Magician's combat\obj\Debug\net8.0\Magician's combat.dll
+C:\Visual 2022\C#\Magician's combat\Magician's combat\obj\Debug\net8.0\refint\Magician's combat.dll
+C:\Visual 2022\C#\Magician's combat\Magician's combat\obj\Debug\net8.0\Magician's combat.pdb
+C:\Visual 2022\C#\Magician's combat\Magician's combat\obj\Debug\net8.0\Magician's combat.genruntimeconfig.cache
+C:\Visual 2022\C#\Magician's combat\Magician's combat\obj\Debug\net8.0\ref\Magician's combat.dll
